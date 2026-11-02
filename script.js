@@ -13,5 +13,5 @@ function decimalToBinary(num) {
 	}
 	return binary
 }
-const num = parseInt(prompt("Enter a number."));
-alert(decimalToBinary(num));
+// const num = parseInt(prompt("Enter a number."));
+// alert(decimalToBinary(num));
