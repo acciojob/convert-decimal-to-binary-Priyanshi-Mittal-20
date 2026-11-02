@@ -2,7 +2,7 @@ function decimalToBinary(num) {
   // your code here
 	if(num==0)
 	{
-		return 0
+		return "0"
 	}
 	num=Number(num)
 	let binary=""
